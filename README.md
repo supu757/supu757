@@ -1,22 +1,12 @@
 <div align="center">
   <h1>Hi there, I'm Supuni Udeshika! 👋</h1>
-  <p><b>NDT IT Undergraduate at University of Moratuwa (ITUM) | Aspiring Software Developer 🇱🇰</b></p>
+  <p><b>NDT IT Undergraduate at University of Moratuwa (ITUM) | Aspiring Software Developer</b></p>
 
   <p>
-    <a href="https://linkedin.com" target="_blank">
-      <img src="https://jsdelivr.net" width="30" height="30" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="mailto:supuniudeshika297@gmail.com">
-      <img src="https://jsdelivr.net" width="30" height="30" alt="Gmail" />
-    </a>
-  </p>
-  <p>
-    🔗 <a href="https://linkedin.com"><b>Connect on LinkedIn</b></a> &nbsp;|&nbsp;
+    🔗 <a href="https://linkedin.com"><b>LinkedIn Profile</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
     ✉️ <a href="mailto:supuniudeshika297@gmail.com"><b>supuniudeshika297@gmail.com</b></a>
   </p>
 </div>
-
 
 ---
 
@@ -31,9 +21,13 @@ I am an Information Technology undergraduate passionate about building practical
 ---
 
 ### 🛠️ Languages, Frameworks & Tools
-<p align="left">
-  <img src="https://skillicons.dev" alt="Tech Stack" />
-</p>
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | `HTML5` • `CSS3` • `JavaScript` |
+| **Backend & Programming** | `PHP` • `Python` • `Java` |
+| **Database** | `MySQL` |
+| **Tools & Design** | `Git` • `GitHub` • `VS Code` • `Figma` |
 
 ---
 
@@ -42,11 +36,3 @@ I am an Information Technology undergraduate passionate about building practical
 - **[Vehicle Service Station Management System](https://github.com)** — A web platform designed to streamline vehicle service operations and customer records.
 - **[Unistay Care Project](https://github.com)** — A collaborative project focused on student accommodation and care management.
 - **[Python Calculator App](https://github.com)** — A desktop calculator application built to strengthen core Python logic and exception handling.
-
----
-
-### 📊 My GitHub Stats
-<div align="center">
-  <img height="165em" src="https://vercel.app" alt="Supuni's GitHub Stats" />
-  <img height="165em" src="https://vercel.app" alt="Top Languages" />
-</div>
