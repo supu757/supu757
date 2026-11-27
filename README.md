@@ -4,13 +4,19 @@
 
   <p>
     <a href="https://linkedin.com" target="_blank">
-      <img src="https://shields.io" alt="LinkedIn" />
+      <img src="https://jsdelivr.net" width="30" height="30" alt="LinkedIn" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="mailto:supuniudeshika297@gmail.com">
-      <img src="https://shields.io" alt="Gmail" />
+      <img src="https://jsdelivr.net" width="30" height="30" alt="Gmail" />
     </a>
   </p>
+  <p>
+    🔗 <a href="https://linkedin.com"><b>Connect on LinkedIn</b></a> &nbsp;|&nbsp;
+    ✉️ <a href="mailto:supuniudeshika297@gmail.com"><b>supuniudeshika297@gmail.com</b></a>
+  </p>
 </div>
+
 
 ---
 
